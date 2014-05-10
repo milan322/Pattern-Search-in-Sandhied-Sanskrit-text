@@ -24,4 +24,10 @@
      Click Close and you should be ready to double click the "sanskritsearch.jar" file.
 
 
+     Application Functionalites:
+       -->This app takes two inputs:
+           *The sanskrit sandhied text.
+           *Pattern to search.
+           
+          
 
