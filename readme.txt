@@ -29,5 +29,9 @@
            *The sanskrit sandhied text.
            *Pattern to search.
            
-          
+        Example: Sandhied Sanskrit text:  अत्र शऊरआ महएष्वआसआ भईमआर्जउनसमआ यउधइ
 
+                  Pattern to search is:  महेष
+                   
+                   So the application will compare the pattern in the sansdhied text if if it will found 
+                   the match then it will highlight the matched pattern in the sandhied sanskrit string.
