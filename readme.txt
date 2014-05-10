@@ -33,5 +33,5 @@
 
                   Pattern to search is:  महेष
                    
-                   So the application will compare the pattern in the sansdhied text if it will find 
+                   So the application will compare the pattern in the sandhied text if it will find 
                    the match then it will highlight the matched pattern in the sandhied sanskrit string.
